@@ -1,3 +1,4 @@
 Cloud Computing is the new boom that led to the rise of virtualization. 
 Cloud consist of mainly three types namely- public cloud, private cloud and hybrid cloud.
 Cloud services are provided by various cloud service providers like AWS, Google Cloud Platform,oracle, Microsoft Azure.
+PAAS is platform as a service.
